@@ -37,7 +37,7 @@ answer : b) main memory
 x = 43
 x = x   1
 print x
-answer : d) Error because x = x   1 is not possible mathematically
+answer : c) 44 u can see the result when u run code 
 
 
 
